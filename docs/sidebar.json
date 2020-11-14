@@ -1,0 +1,15 @@
+{
+  "nbdev": {
+    "Overview": "/",
+    "Export to modules": "/export",
+    "Synchronize and diff": "/sync",
+    "Show doc": "/showdoc",
+    "Convert to html": "/export2html",
+    "Extract tests": "/test",
+    "Fix merge conflicts": "/merge",
+    "Command line functions": "/cli",
+    "Clean notebooks": "/clean",
+    "Setting up Search": "/search",
+    "nbdev tutorial": "/tutorial"
+  }
+}
